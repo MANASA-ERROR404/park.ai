@@ -6,7 +6,6 @@ the online hackathon conducted by Codefest, the annual departmental fest of Comp
 # park.ai
 > park anywhere and everywhere, legally!
 
-* [CHAITANYA SAI](chaitanya.saig@s.amity.edu)
 
 * [SANKOJU MANASA](sankojumanasa2002@gmail.com)
 
